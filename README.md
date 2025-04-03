@@ -75,7 +75,10 @@ This file contains a head section and a body section containing a javascript sec
 This tribute.php script reads JSON format input data, checks for the existence of optional fields, interacts with a MySQL database to check for existing records, and inserts new records if necessary.
 
 11.COPYING 
-the copying file contains GNU General Public License v3.0 licence.
+The copying file contains GNU General Public License v3.0 licence.
+
+12.tributarieslogo.svg
+This file contains a scalable vector graphics image that can be resized without loosing quality.
 
 CONTENT DOCUMENTATION
 The following images were used:
