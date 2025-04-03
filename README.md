@@ -60,6 +60,12 @@ This tribute.php script reads JSON format input data, checks for the existence o
 
 CONTENT DOCUMENTATION
 The following images were used:
+1.https://media.gettyimages.com/id/1335295270/photo/global-connection.jpg?s=612x612&w=0&k=20&c=pVIatR8XcihqKTDnISYXNWvSkpZkdeJJa3YNfk9zC6g=
+2.https://media.gettyimages.com/id/1266858252/photo/anonymous-businesswoman-analyzing-statistical-business-reports-on-her-tablet-pc-at-the-office.jpg?s=612x612&w=0&k=20&c=tzsfknhsmCHFXy6ktY2a479Ym0T1VlsDYEr5RBs4ykQ=
+3.https://media.gettyimages.com/id/1350722246/photo/server-room-background.jpg?s=612x612&w=0&k=20&c=f6CoZ-PmbMo5zCsRPAP9B4tdwS8yvkSKBnCfC3GRmqU=
+
+DEPLOYMENT
+The project has been deployed using vercel since it intergrates seamlessly with Github.The preview URL is https://tributaries.vercel.app
 
 
 
