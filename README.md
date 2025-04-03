@@ -77,7 +77,7 @@ This tribute.php script reads JSON format input data, checks for the existence o
 11.COPYING 
 The copying file contains GNU General Public License v3.0 licence.
 
-12.tributarieslogo.svg
+12.tributelogo.svg
 This file contains a scalable vector graphics image that can be resized without loosing quality.
 
 CONTENT DOCUMENTATION
