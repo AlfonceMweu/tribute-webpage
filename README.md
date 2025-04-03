@@ -87,6 +87,15 @@ The following images were used:
 
 DEPLOYMENT
 The project has been deployed using vercel since it intergrates seamlessly with Github.The preview URL is https://tributaries.vercel.app
+GUIDE:
+
+1.Sign up or login to vercel.com
+
+2.go to the vercel dashboard.
+
+3.click on new project and import the repository.
+
+4.follow the prompts to configure the project,vercel will automatically deploy the project whenever changes are pushed to the repository.
 
 DESIGN CHOICES
 Color choices-the color pallette is inspired by the scientific theme,using  different shades of blue and white to reflect clarity and knowleddge.
