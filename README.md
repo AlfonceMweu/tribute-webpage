@@ -26,6 +26,11 @@ TECHNOLOGIES USED:
 -1supabase/storage-php: A library for managing Supabase storage.
 8.GitHub. 
 
+INSTALLATION GUIDE
+1.Clone the repository: git clone
+2.Open the project in your preffered code editor.
+3.Open the inde.html file in your broswer to view the webpage.
+
 CODE DOCUMENTATION.
 
 1.bioData.php 
@@ -67,5 +72,16 @@ The following images were used:
 DEPLOYMENT
 The project has been deployed using vercel since it intergrates seamlessly with Github.The preview URL is https://tributaries.vercel.app
 
+DESIGN CHOICES
+Color choices-the color pallette is inspired by the scientific theme,using  different shades of blue and white to reflect clarity and knowleddge.
+Typography-a readble font family was used to enhance accessibility and visibility.
+Design and layout- the page is designed to celebrate icons in the technology field showcasing biographiesa and images.The who are we,why us nad view more sections help the users navigate and understand the offerings of the site.The emphasis of data validity and use of clear images enhances user engagement.
 
+CHALLENGES AND SOLUTIONS
+The most challenging part like any other webpage was creating a responsive and compatible layout that can work on different types of devices.We overcame this by using CSS media queries and ensuring all elements were up to scale.
+Another challenge was obtaining a high qauality API to fetch information from the internet,this is yhey expensive to acquire and there was lack of funds we overcame this by getting a free one but with lower capabilities.
+
+FUTURE IMPROVEMENTS
+A high quality API that can fetch more information of an individual from the internet.
+More multimedia elements including video clips of interviews and documentaries.
 
