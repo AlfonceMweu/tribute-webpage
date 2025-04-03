@@ -1,4 +1,6 @@
-PROJECT DOCUMENTATION.
+LEGACY OF LEGENDS
+
+
 
 CODE DOCUMENTATION.
 
@@ -17,6 +19,8 @@ This is a php script that connects to a PostgreSQL database and fetch all record
 5.databaseSearch.php
 This is a PHP script that performs a search query  to retrieve records from  the bio-data table in the database and returns the results in JSON format.
 
+6.index.css
+This file contains various CSS attributes that style the elements of the webpage this includes the header, dropdown menus, main content areas, animations, and responsiveness for different screen sizes..This includes 1.Reseting padding, margin, and sets box-sizing to border-box for all elements and setting the body to hide horizontal overflow and giving it a whitesmoke background color.2.Styling the header section to be fixed at the top with a height of 12vh, full width, and a dark background color.3.Styling  the dropdown menu and its button, including positioning, colors, and sizes.4.Defining keyframe animations for blinking and other effects,Adjusts styles for screens with a maximum width and those with a minimum width of 2000px.
 
 7.index.html
 This HTML file creates a structured webpage with a head and body.The head section contains contains meta information about the document, including character set, viewport settings, title, logo and external stylesheets.The body has four sections:the header section fixed with a dropdown menu for navigation,the main section containing an introductory description,a button, and an image,the main content section containing information about the website's purpose, benefits, data validity complete with images and cards and lastly the footer section which has the message powered by google.
