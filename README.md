@@ -1,6 +1,30 @@
 LEGACY OF LEGENDS
 
+This project is a tribute webpage dedicated to the greatest legends of the tech wordld.It is different than other tribute pages in that it honors multiple people whom we acknowlrdge have made great contributions to the advancement of technolog rather than the usual one person per page.The project aims to reach to the younger population with whom this kind of information may be difficult to get.  
 
+TECHNOLOGIES USED:
+1.HTML, CSS, Java Script and PHP languages
+2.My SQL and PostgreSQL
+3.XAMPP
+4.Visual studio
+5.Netlify
+6.JSON and UTF-8 formats.
+7.libraries used.
+-bayfrontmedia/php-mime-types**: A library to detect the appropriate MIME type of a file based on its extension.
+-graham-campbell/result-type**: A library for implementing the Result type.
+-guzzlehttp/guzzle**: A PHP HTTP client library.
+-guzzlehttp/promises**: A library for creating and handling promises in PHP.
+-guzzlehttp/psr7: A PSR-7 message implementation that provides common utility methods.
+-league/uri: A URI manipulation library.
+-league/uri-interfaces: Common interface for URI representation.
+-phpoption/phpoption: Option Type for PHP.
+-sr/http-client: Common interface for HTTP clients.
+-psr/http-factory: Common interfaces for PSR-7 HTTP message factories.
+-psr/http-message: Common interface for HTTP messages.
+-ralouphie/getallheaders: A polyfill for getallheaders.
+-supabase/functions-php: Supabase Edge Functions for PHP.
+-1supabase/storage-php: A library for managing Supabase storage.
+8.GitHub. 
 
 CODE DOCUMENTATION.
 
@@ -34,4 +58,6 @@ This file contains a head section and a body section containing a javascript sec
 10.tribute.php
 This tribute.php script reads JSON format input data, checks for the existence of optional fields, interacts with a MySQL database to check for existing records, and inserts new records if necessary.
 
+CONTENT DOCUMENTATION
+The following images were used:
 
