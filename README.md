@@ -7,7 +7,7 @@ TECHNOLOGIES USED:
 2.My SQL and PostgreSQL
 3.XAMPP
 4.Visual studio
-5.Netlify
+5.Vercel
 6.JSON and UTF-8 formats.
 7.libraries used.
 -bayfrontmedia/php-mime-types**: A library to detect the appropriate MIME type of a file based on its extension.
@@ -60,4 +60,6 @@ This tribute.php script reads JSON format input data, checks for the existence o
 
 CONTENT DOCUMENTATION
 The following images were used:
+
+
 
