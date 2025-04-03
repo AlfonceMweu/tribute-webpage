@@ -63,6 +63,9 @@ This file contains a head section and a body section containing a javascript sec
 10.tribute.php
 This tribute.php script reads JSON format input data, checks for the existence of optional fields, interacts with a MySQL database to check for existing records, and inserts new records if necessary.
 
+11.COPYING 
+the copying file contains GNU General Public License v3.0 licence.
+
 CONTENT DOCUMENTATION
 The following images were used:
 1.https://media.gettyimages.com/id/1335295270/photo/global-connection.jpg?s=612x612&w=0&k=20&c=pVIatR8XcihqKTDnISYXNWvSkpZkdeJJa3YNfk9zC6g=
@@ -85,3 +88,5 @@ FUTURE IMPROVEMENTS
 A high quality API that can fetch more information of an individual from the internet.
 More multimedia elements including video clips of interviews and documentaries.
 
+LICENCE
+This project is licenced by GNU General Public License v3.0.
