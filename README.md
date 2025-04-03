@@ -3,12 +3,19 @@ LEGACY OF LEGENDS
 This project is a tribute webpage dedicated to the greatest legends of the tech wordld.It is different than other tribute pages in that it honors multiple people whom we acknowlrdge have made great contributions to the advancement of technolog rather than the usual one person per page.The project aims to reach to the younger population with whom this kind of information may be difficult to get.  
 
 TECHNOLOGIES USED:
+
 1.HTML, CSS, Java Script and PHP languages
+
 2.My SQL and PostgreSQL
+
 3.XAMPP
+
 4.Visual studio
+
 5.Vercel
+
 6.JSON and UTF-8 formats.
+
 7.libraries used.
 -bayfrontmedia/php-mime-types**: A library to detect the appropriate MIME type of a file based on its extension.
 -graham-campbell/result-type**: A library for implementing the Result type.
@@ -24,11 +31,15 @@ TECHNOLOGIES USED:
 -ralouphie/getallheaders: A polyfill for getallheaders.
 -supabase/functions-php: Supabase Edge Functions for PHP.
 -1supabase/storage-php: A library for managing Supabase storage.
+
 8.GitHub. 
 
 INSTALLATION GUIDE
-1.Clone the repository: git clone
+
+1.Clone the repository: git clone https://github.com/AlfonceMweu/tribute-webpage.git
+
 2.Open the project in your preffered code editor.
+
 3.Open the inde.html file in your broswer to view the webpage.
 
 CODE DOCUMENTATION.
@@ -69,7 +80,9 @@ the copying file contains GNU General Public License v3.0 licence.
 CONTENT DOCUMENTATION
 The following images were used:
 1.https://media.gettyimages.com/id/1335295270/photo/global-connection.jpg?s=612x612&w=0&k=20&c=pVIatR8XcihqKTDnISYXNWvSkpZkdeJJa3YNfk9zC6g=
+
 2.https://media.gettyimages.com/id/1266858252/photo/anonymous-businesswoman-analyzing-statistical-business-reports-on-her-tablet-pc-at-the-office.jpg?s=612x612&w=0&k=20&c=tzsfknhsmCHFXy6ktY2a479Ym0T1VlsDYEr5RBs4ykQ=
+
 3.https://media.gettyimages.com/id/1350722246/photo/server-room-background.jpg?s=612x612&w=0&k=20&c=f6CoZ-PmbMo5zCsRPAP9B4tdwS8yvkSKBnCfC3GRmqU=
 
 DEPLOYMENT
@@ -77,15 +90,19 @@ The project has been deployed using vercel since it intergrates seamlessly with 
 
 DESIGN CHOICES
 Color choices-the color pallette is inspired by the scientific theme,using  different shades of blue and white to reflect clarity and knowleddge.
+
 Typography-a readble font family was used to enhance accessibility and visibility.
+
 Design and layout- the page is designed to celebrate icons in the technology field showcasing biographiesa and images.The who are we,why us nad view more sections help the users navigate and understand the offerings of the site.The emphasis of data validity and use of clear images enhances user engagement.
 
 CHALLENGES AND SOLUTIONS
 The most challenging part like any other webpage was creating a responsive and compatible layout that can work on different types of devices.We overcame this by using CSS media queries and ensuring all elements were up to scale.
+
 Another challenge was obtaining a high qauality API to fetch information from the internet,this is yhey expensive to acquire and there was lack of funds we overcame this by getting a free one but with lower capabilities.
 
 FUTURE IMPROVEMENTS
 A high quality API that can fetch more information of an individual from the internet.
+
 More multimedia elements including video clips of interviews and documentaries.
 
 LICENCE
