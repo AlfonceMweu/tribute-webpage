@@ -17,10 +17,10 @@ TECHNOLOGIES USED:
 6.JSON and UTF-8 formats.
 
 7.libraries used.
--bayfrontmedia/php-mime-types**: A library to detect the appropriate MIME type of a file based on its extension.
--graham-campbell/result-type**: A library for implementing the Result type.
--guzzlehttp/guzzle**: A PHP HTTP client library.
--guzzlehttp/promises**: A library for creating and handling promises in PHP.
+-bayfrontmedia/php-mime-types: A library to detect the appropriate MIME type of a file based on its extension.
+-graham-campbell/result-type: A library for implementing the Result type.
+-guzzlehttp/guzzle: A PHP HTTP client library.
+-guzzlehttp/promises: A library for creating and handling promises in PHP.
 -guzzlehttp/psr7: A PSR-7 message implementation that provides common utility methods.
 -league/uri: A URI manipulation library.
 -league/uri-interfaces: Common interface for URI representation.
@@ -106,4 +106,5 @@ A high quality API that can fetch more information of an individual from the int
 More multimedia elements including video clips of interviews and documentaries.
 
 LICENCE
+
 This project is licenced by GNU General Public License v3.0.
