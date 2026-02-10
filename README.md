@@ -1,4 +1,4 @@
-LEGACY OF LEGENDS
+TRIBUTARIES
 
 This project is a tribute webpage dedicated to the greatest legends of the tech wordld.It is different than other tribute pages in that it honors multiple people whom we acknowlrdge have made great contributions to the advancement of technolog rather than the usual one person per page.The project aims to reach to the younger population with whom this kind of information may be difficult to get.  
 
